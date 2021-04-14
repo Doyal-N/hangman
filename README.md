@@ -20,7 +20,7 @@ bundle install
 **Старт игры**
 
 ```
-ruby main.rb -- сделайте запуск приложения в контексте имеющегося Gemfile
+bundle exec ruby main.rb
 ```
 
 **Пример игрового интерфейса:**
